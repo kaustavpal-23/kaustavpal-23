@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaustavpal-23
+- 👋 Hi, I’m Kaustav Pal
 - 👀 I’m interested in Data Analysis and Machine Learning Algorithms
 - 🌱 I’m currently learning MSc in Statistics
 - 💞️ I’m looking to collaborate on projects regarding Machine Learning and Deep Learning
