@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kaustav Pal
 - 👀 I’m interested in Data Analysis and Machine Learning Algorithms
-- 🌱 I’m currently learning MSc in Statistics
+- 🌱 I’m currently learning MSc in Statistics and a Data Science intern @ Pentation Analytics
 - 💞️ I’m looking to collaborate on projects regarding Machine Learning and Deep Learning
 - 📫 How to reach me - Email me at: kaustavpal23@yahoo.comm
 
